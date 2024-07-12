@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uclizy
-- 👀 I’m interested in ..woek and education.
+- 👀 I’m interested in .. work and education.
 - 🌱 I’m currently learning ... how to become a virtual assistant 
 - 💞️ I’m looking to collaborate on ..alx.
 - 📫 How to reach me .. igumeliza@gmail.com
